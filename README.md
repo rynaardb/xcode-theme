@@ -4,6 +4,8 @@
 
 This repository contains the Xcode theme that I use. Feel free to use it or modify it to your liking.
 
+![screenshot](xcode-theme-screenshot.png)
+
 ## Installing manually
 
 You can also choose to do things manually if you want:
