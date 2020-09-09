@@ -22,6 +22,6 @@ $ git clone https://github.com/rynaardb/xcode-theme.git
 
 3. Copy the file `Dusky Dark.xccolortheme` into the above folder.
 
-4. Download the latest release of the Fira Code font from [its repo](https://github.com/tonsky/FiraCode).
+4. Download the latest release of the [Hack font](https://sourcefoundry.org/hack/).
 
 5. Unzip the font archive and move the files in the `TTF` folder to `~/Library/Fonts`.
